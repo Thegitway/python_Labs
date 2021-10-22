@@ -10,11 +10,13 @@ This is the source code for the python lab.
 - Clone the project
 ```shell script
 $> git clone https://github.com/Thegitway/python_Labs.git
-
+```
 - Just open the file 'lab1.ipynb' with notebook jupyter 
 - Don't forget to set the right envirenoment with face_recognition installed
 - To install face_recognition go to anaconda env and clique in play button -> open terminal 
 and in the shell 
+```shell script
 $> conda install -c conda-forge face_recognition
+```
 
 TADAAA !!!
