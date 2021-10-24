@@ -5,6 +5,7 @@ This is the source code for the python lab.
 - [python](https://www.python.org/)
 - [anaconda](https://www.anaconda.com/)
 - [face_recongnition](https://pypi.org/project/face-recognition/)
+- [openCV](https://pypi.org/project/opencv-python/)
 
 ## Setup
 - Clone the project
